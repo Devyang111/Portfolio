@@ -22,7 +22,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
         
-              title="Chatify"
+              title="Stock Market Analysis"
               description="Daily-Stock-Movements-Trading-Volumes-and-Volatility-Impact-on-Market-Trends-and-Investor-Behaviou"
               ghLink="https://github.com/Devyang111/Daily-Stock-Movements-Trading-Volumes-and-Volatility-Impact-on-Market-Trends-and-Investor-Behaviou"
             />
@@ -32,7 +32,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
             
-              title="Bits-0f-C0de"
+              title="NOC Insight Analytics"
               description="An end-to-end data analytics project demonstrating the evolution from a baseline operational system (V1) to a modern analytics pipeline (V2). The project includes data cleaning using Python, structured storage in PostgreSQL, SQL-based analysis, KPI-driven insights, and interactive Power BI dashboards."
               ghLink="https://github.com/Devyang111/NOC-Insight-Analytics-End-to-End-V1-to-V2-Data-Modernisation-Project"
             />
@@ -41,7 +41,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
             
-              title="Bits-0f-C0de"
+              title="SmartMart E-commerce Analytics"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
               ghLink="https://github.com/Devyang111/NOC-Insight-Analytics-End-to-End-V1-to-V2-Data-Modernisation-Project"
             />

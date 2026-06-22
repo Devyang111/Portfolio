@@ -20,7 +20,7 @@ function Home2() {
             </h1>
 
             <p className="home-about-body">
-              Hey, I'm Devyand — a data analyst who genuinely enjoys the process of taking a messy dataset and turning it into something that actually means something to a business.
+              Hey, I'm Devyang — a data analyst who genuinely enjoys the process of taking a messy dataset and turning it into something that actually means something to a business.
 
               <br />
               <br />
