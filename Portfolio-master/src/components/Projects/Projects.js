@@ -47,6 +47,15 @@ function Projects() {
             />
           </Col>
 
+            <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              title="NHSFlow Intelligence"
+              description="An end-to-end analytics platform built on real NHS England RTT data to monitor waiting list pressure, identify breach risk, and support operational decision-making across hospital trusts and specialties in England."
+              ghLink="https://github.com/Devyang111/nhsflow-intelligence-rtt-analytics"
+            />
+        </Col>
+
 
          
 
