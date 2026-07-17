@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.2ee1a664.css",
-    "main.js": "/Portfolio/static/js/main.4b71b124.js",
+    "main.js": "/Portfolio/static/js/main.001df126.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Devyang_Panchani_CV.pdf": "/Portfolio/static/media/Devyang_Panchani_CV.74bb1833d239dc97d380.pdf",
     "static/media/codeEditor.png": "/Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/Devyang_Panchani_CV.pdf": "/Portfolio/static/media/Devyang_Panchani_CV.178d6214802d940702cb.pdf",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
@@ -13,12 +13,12 @@
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.2ee1a664.css.map": "/Portfolio/static/css/main.2ee1a664.css.map",
-    "main.4b71b124.js.map": "/Portfolio/static/js/main.4b71b124.js.map",
+    "main.001df126.js.map": "/Portfolio/static/js/main.001df126.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ee1a664.css",
-    "static/js/main.4b71b124.js"
+    "static/js/main.001df126.js"
   ]
 }
